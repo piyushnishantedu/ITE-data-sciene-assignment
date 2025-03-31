@@ -1,0 +1,184 @@
+,exhibitorid,Name,categoryId,categoryName
+0,90556,Turkey Travels,52276,1.5 Resort hotel
+1,90556,Turkey Travels,52280,2.1 Inbound tour operator
+2,90556,Turkey Travels,52281,2.2 Outbound tour operator
+3,92462,Russian Travel Company,52273,1.2 Apartments   Residential hotel
+4,92462,Russian Travel Company,52283,2.4 Mass market tour operators
+5,92462,Russian Travel Company,52289,3.3 Independent travel agency
+6,92462,Russian Travel Company,52291,4.1 Search engine for travel   Aggregator
+7,92462,Russian Travel Company,52298,5.6 Other transport services
+8,92462,Russian Travel Company,52302,6.3 Services & facilities
+9,92491,Indian Travel Company,52273,1.2 Apartments   Residential hotel
+10,92491,Indian Travel Company,52274,1.3 Hostel   Motel
+11,92491,Indian Travel Company,52281,2.2 Outbound tour operator
+12,92492,Asia Tourism,52272,1.1 Hotel   Hotel chain   Inn
+13,92492,Asia Tourism,52276,1.5 Resort hotel
+14,92492,Asia Tourism,52352,14.5 Industrial tourism
+15,92492,Asia Tourism,52358,15.2 Online media
+16,92493,SriLanka Adventures,52296,5.4 Transfer services
+17,92493,SriLanka Adventures,52327,10.3 Cultural heritage site
+18,92493,SriLanka Adventures,52352,14.5 Industrial tourism
+19,92494,Exotic Europe Travels,52274,1.3 Hostel   Motel
+20,92494,Exotic Europe Travels,52277,1.6 Management company
+21,92494,Exotic Europe Travels,52280,2.1 Inbound tour operator
+22,92494,Exotic Europe Travels,52291,4.1 Search engine for travel   Aggregator
+23,92495,Luxury Europe Company,52275,1.4 Boarding house
+24,92495,Luxury Europe Company,52284,2.5 Cruise tour operators
+25,92495,Luxury Europe Company,52298,5.6 Other transport services
+26,92495,Luxury Europe Company,52338,12.2 NTO: National tourism office
+27,92495,Luxury Europe Company,52321,9.3 Cleaning
+28,92496,DreamTravel Company ,52277,1.6 Management company
+29,92496,DreamTravel Company ,52285,2.6 Specialized tour operator
+30,92496,DreamTravel Company ,52297,5.5 Helicopter services
+31,92496,DreamTravel Company ,52298,5.6 Other transport services
+32,92497,Happy Company 2,52275,1.4 Boarding house
+33,92497,Happy Company 2,52276,1.5 Resort hotel
+34,92497,Happy Company 2,52301,6.2 Campervans & caravans
+35,92497,Happy Company 2,52345,13.4 VR & AR
+36,92497,Happy Company 2,52346,13.5 Smart home technology
+37,68142,Global Tours Voyages,52286,3. Travel  agencies
+38,68142,Global Tours Voyages,52335,11.3 Other services in the sphere of business tourism
+39,68142,Global Tours Voyages,52332,11. MICE and event management
+40,68142,Global Tours Voyages,52300,6.1 Motorhomes
+41,68142,Global Tours Voyages,52354,14.7 Religious tourism
+42,68142,Global Tours Voyages,52365,17.2 Payment service provider
+43,68142,Global Tours Voyages,52324,10. Museums & parks
+44,68142,Global Tours Voyages,52274,1.3 Hostel   Motel
+45,68142,Global Tours Voyages,52330,10.6 Nature park
+46,68142,Global Tours Voyages,52339,12.3 Regional tourism office
+47,27827,Exotic Tours Holidays,52355,14.8 Other type of specialized tourism
+48,27827,Exotic Tours Holidays,52337,12.1 TIC: Travel information centre
+49,74870,Exotic Tours Journeys,52299,6. Motorhomes & caravans
+50,74870,Exotic Tours Journeys,52289,3.3 Independent travel agency
+51,74870,Exotic Tours Journeys,52318,9. Hotel equipment & service suppliers
+52,74870,Exotic Tours Journeys,52288,3.2 Authorized travel agency
+53,74870,Exotic Tours Journeys,52311,8.1 Hospitals & clinics
+54,74870,Exotic Tours Journeys,52364,17.1 Insurance company
+55,74870,Exotic Tours Journeys,52357,15.1 Print media
+56,74870,Exotic Tours Journeys,52325,10.1 Museum
+57,56923,Royal Tours Expeditions,52344,13.3 Data Analytics and personalization
+58,56923,Royal Tours Expeditions,52336,12. Tourist board   Government   NTO
+59,80700,Exotic Holidays Services,52353,14.6 Gastro tourism
+60,46350,Prime Travel Journeys,52345,13.4 VR & AR
+61,55311,Sunny Adventures Journeys,52357,15.1 Print media
+62,55311,Sunny Adventures Journeys,52275,1.4 Boarding house
+63,55311,Sunny Adventures Journeys,52295,5.3 Railway company
+64,55311,Sunny Adventures Journeys,52354,14.7 Religious tourism
+65,55311,Sunny Adventures Journeys,52306,7. Mobile homes & glampings
+66,55311,Sunny Adventures Journeys,52299,6. Motorhomes & caravans
+67,55311,Sunny Adventures Journeys,52341,13. IT solutions for travel industry
+68,55311,Sunny Adventures Journeys,52351,14.4 Adventure tourism
+69,55311,Sunny Adventures Journeys,52291,4.1 Search engine for travel   Aggregator
+70,55311,Sunny Adventures Journeys,52340,12.4 Industry association
+71,55311,Sunny Adventures Journeys,52353,14.6 Gastro tourism
+72,31331,Exotic Adventures Journeys,52288,3.2 Authorized travel agency
+73,31331,Exotic Adventures Journeys,52282,2.3 Receptive   ground operator
+74,31331,Exotic Adventures Journeys,52366,"17.3 Banking, investments"
+75,97818,Sunny Trips Adventures,52288,3.2 Authorized travel agency
+76,97818,Sunny Trips Adventures,52337,12.1 TIC: Travel information centre
+77,13033,Prime Vacations Expeditions,52323,9.5 Equipment for restaurants and catering
+78,13033,Prime Vacations Expeditions,52363,17. Insurance companies & banking
+79,13033,Prime Vacations Expeditions,52359,15.3 Radio & TV
+80,13033,Prime Vacations Expeditions,52274,1.3 Hostel   Motel
+81,15881,Royal Trips Tours,52293,5.1 Airlines
+82,15881,Royal Trips Tours,52342,13.1 Online booking system & trip planner software
+83,15881,Royal Trips Tours,52343,13.2 Mobile app
+84,15881,Royal Trips Tours,52277,1.6 Management company
+85,15881,Royal Trips Tours,52299,6. Motorhomes & caravans
+86,15881,Royal Trips Tours,52336,12. Tourist board   Government   NTO
+87,15881,Royal Trips Tours,52274,1.3 Hostel   Motel
+88,15881,Royal Trips Tours,52365,17.2 Payment service provider
+89,15881,Royal Trips Tours,52354,14.7 Religious tourism
+90,10846,Royal Adventures Adventures,52286,3. Travel  agencies
+91,10846,Royal Adventures Adventures,52365,17.2 Payment service provider
+92,10846,Royal Adventures Adventures,52331,10.7 National park
+93,10846,Royal Adventures Adventures,52353,14.6 Gastro tourism
+94,10846,Royal Adventures Adventures,52316,8.6 Medical products and machinery manufacturer   distributor
+95,10846,Royal Adventures Adventures,52297,5.5 Helicopter services
+96,98889,Exotic Tours Tours,52312,8.2 Short-term complex rest and medical services
+97,98889,Exotic Tours Tours,52283,2.4 Mass market tour operators
+98,98889,Exotic Tours Tours,52349,14.2 Study abroad & volunteering
+99,98889,Exotic Tours Tours,52322,9.4 Security system manufacturer   distributor
+100,98889,Exotic Tours Tours,52361,"16.1 Real estate, property and homes in Russia"
+101,18004,Exotic Getaways Journeys,52366,"17.3 Banking, investments"
+102,44942,Royal Holidays Adventures,52329,10.5 Zoo
+103,44942,Royal Holidays Adventures,52290,4. Online travel agency
+104,44942,Royal Holidays Adventures,52338,12.2 NTO: National tourism office
+105,44942,Royal Holidays Adventures,52312,8.2 Short-term complex rest and medical services
+106,48028,Prime Adventures Journeys,52310,8. Health & medical tourism
+107,48028,Prime Adventures Journeys,52332,11. MICE and event management
+108,48028,Prime Adventures Journeys,52347,14. Niche tourism
+109,48028,Prime Adventures Journeys,52359,15.3 Radio & TV
+110,48028,Prime Adventures Journeys,52340,12.4 Industry association
+111,48028,Prime Adventures Journeys,52343,13.2 Mobile app
+112,48028,Prime Adventures Journeys,52345,13.4 VR & AR
+113,48028,Prime Adventures Journeys,52320,9.2 Manufacturer   distributor of consumables
+114,48028,Prime Adventures Journeys,52353,14.6 Gastro tourism
+115,48028,Prime Adventures Journeys,52355,14.8 Other type of specialized tourism
+116,48028,Prime Adventures Journeys,52328,10.4 Theme & water park
+117,72153,Elite Adventures Holidays,52289,3.3 Independent travel agency
+118,72153,Elite Adventures Holidays,52294,5.2 Bus services
+119,72153,Elite Adventures Holidays,52331,10.7 National park
+120,72153,Elite Adventures Holidays,52338,12.2 NTO: National tourism office
+121,72153,Elite Adventures Holidays,52297,5.5 Helicopter services
+122,72153,Elite Adventures Holidays,52287,3.1 Network franchise travel agency
+123,72153,Elite Adventures Holidays,52348,14.1 Youth travel
+124,72153,Elite Adventures Holidays,52342,13.1 Online booking system & trip planner software
+125,72153,Elite Adventures Holidays,52357,15.1 Print media
+126,72153,Elite Adventures Holidays,52314,8.4 Hair transplantation
+127,72153,Elite Adventures Holidays,52278,1.7 Other type of accommodation facility
+128,72153,Elite Adventures Holidays,52290,4. Online travel agency
+129,32278,Exotic Holidays Holidays,52288,3.2 Authorized travel agency
+130,32278,Exotic Holidays Holidays,52302,6.3 Services & facilities
+131,32278,Exotic Holidays Holidays,52364,17.1 Insurance company
+132,51839,Dream Getaways Expeditions,52318,9. Hotel equipment & service suppliers
+133,51839,Dream Getaways Expeditions,52309,7.3 Other type of motorhomes & glamping
+134,51839,Dream Getaways Expeditions,52311,8.1 Hospitals & clinics
+135,51839,Dream Getaways Expeditions,52333,11.1 MICE agency
+136,51839,Dream Getaways Expeditions,52360,16. Real estate agencies
+137,51839,Dream Getaways Expeditions,52325,10.1 Museum
+138,30134,Global Holidays Expeditions,52344,13.3 Data Analytics and personalization
+139,30134,Global Holidays Expeditions,52285,2.6 Specialized tour operator
+140,54579,Prime Vacations Voyages,52338,12.2 NTO: National tourism office
+141,54579,Prime Vacations Voyages,52364,17.1 Insurance company
+142,54579,Prime Vacations Voyages,52327,10.3 Cultural heritage site
+143,54579,Prime Vacations Voyages,52305,6.6 Other type of motorhomes
+144,54579,Prime Vacations Voyages,52284,2.5 Cruise tour operators
+145,21865,Dream Holidays Holidays,52365,17.2 Payment service provider
+146,21865,Dream Holidays Holidays,52324,10. Museums & parks
+147,21865,Dream Holidays Holidays,52313,8.3 Global healthcare providers
+148,21865,Dream Holidays Holidays,52280,2.1 Inbound tour operator
+149,21865,Dream Holidays Holidays,52286,3. Travel  agencies
+150,21865,Dream Holidays Holidays,52328,10.4 Theme & water park
+151,21865,Dream Holidays Holidays,52306,7. Mobile homes & glampings
+152,21865,Dream Holidays Holidays,52343,13.2 Mobile app
+153,21865,Dream Holidays Holidays,52351,14.4 Adventure tourism
+154,21865,Dream Holidays Holidays,52287,3.1 Network franchise travel agency
+155,21865,Dream Holidays Holidays,52333,11.1 MICE agency
+156,97920,Dream Tours Tours,52294,5.2 Bus services
+157,97920,Dream Tours Tours,52325,10.1 Museum
+158,97920,Dream Tours Tours,52362,"16.2 Real estate, property and homes abroad"
+159,97920,Dream Tours Tours,52352,14.5 Industrial tourism
+160,97920,Dream Tours Tours,52329,10.5 Zoo
+161,97920,Dream Tours Tours,52324,10. Museums & parks
+162,97920,Dream Tours Tours,52353,14.6 Gastro tourism
+163,97920,Dream Tours Tours,52338,12.2 NTO: National tourism office
+164,97920,Dream Tours Tours,52346,13.5 Smart home technology
+165,18960,Elite Travel Services,52327,10.3 Cultural heritage site
+166,18960,Elite Travel Services,52357,15.1 Print media
+167,18960,Elite Travel Services,52360,16. Real estate agencies
+168,18960,Elite Travel Services,52316,8.6 Medical products and machinery manufacturer   distributor
+169,15642,Dream Travel Services,52334,11.2 Event organizer
+170,15642,Dream Travel Services,52273,1.2 Apartments   Residential hotel
+171,15642,Dream Travel Services,52306,7. Mobile homes & glampings
+172,15642,Dream Travel Services,52291,4.1 Search engine for travel   Aggregator
+173,15642,Dream Travel Services,52272,1.1 Hotel   Hotel chain   Inn
+174,17729,Sunny Travel Journeys,52271,1. Accomodation providers
+175,17729,Sunny Travel Journeys,52359,15.3 Radio & TV
+176,17729,Sunny Travel Journeys,52304,6.5 Car rental   Carsharing
+177,17729,Sunny Travel Journeys,52285,2.6 Specialized tour operator
+178,17729,Sunny Travel Journeys,52282,2.3 Receptive   ground operator
+179,17729,Sunny Travel Journeys,52272,1.1 Hotel   Hotel chain   Inn
+180,17729,Sunny Travel Journeys,52329,10.5 Zoo
+181,17729,Sunny Travel Journeys,52366,"17.3 Banking, investments"
+182,17729,Sunny Travel Journeys,52297,5.5 Helicopter services
